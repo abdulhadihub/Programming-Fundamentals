@@ -1,0 +1,48 @@
+#include<iostream>
+#include<string>
+
+using namespace std;
+
+int main(){
+
+    int number;
+    string words;
+    cout<<"Please enter a number: "<<endl;
+    cin>>number;
+
+    switch(number)
+    {
+    case 1:
+        words = "one";
+        break;
+    case 2:
+        words = "two";
+        break;
+    case 3:
+        words = "three";
+        break;
+    case 4:
+        words = "four";
+        break;
+    case 5:
+        words = "five";
+        break;
+    case 6:
+        words = "six";
+        break;
+    case 7:
+        words = "seven";
+        break;
+    case 8:
+        words = "eight";
+        break;
+    case 9:
+        words = "nine";
+        break;
+    default:
+        words = "wrong input!/n";
+    }
+
+    cout<<"The number you entered was: "<<words<<endl;
+    return 0;
+}

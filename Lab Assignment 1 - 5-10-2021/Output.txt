@@ -1,0 +1,10 @@
+abdul hadi
+Gross Amount: ........... $ 200.32
+Federal Tax: ............ $  30.05
+State Amount: ........... $   7.01
+
+Social Security Tax: .... $  11.52
+Medicare/Medicaid Tax: .. $   5.51
+Pension Plan: ........... $  10.02
+Health Insurance: ....... $  75.00
+Net Pay: ................ $  61.22

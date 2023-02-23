@@ -1,0 +1,17 @@
+149
+C++ is easy
+M. Umar
+800
+F
+--
+130
+Java is super-easy
+M. Ali
+500
+T
+--
+197
+Object Oriented Programming
+M. Usman
+20.50
+F
